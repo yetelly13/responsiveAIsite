@@ -12,12 +12,12 @@ const featuresData = [
     text: ' GPT-3 is trained on a diverse corpus of text from the internet, including books, articles, websites, and more. This extensive training data helps the model understand and generate text across a wide range of topics and styles.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Contextual Understanding',
+    text: ' It considers the context of the conversation, enabling more relevant and coherent responses.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Continual Improvement',
+    text: ' As more data becomes available, and as research progresses, new versions and iterations of ChatGPT are developed, aiming for better performance, comprehension, and generation of human-like text.',
   },
 ];
 
